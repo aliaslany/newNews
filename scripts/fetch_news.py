@@ -139,6 +139,12 @@ def main():
             **raw,
             "fetched_at": datetime.now(timezone.utc).isoformat(),
             "reliability": publisher.get("reliability", {}),
+            "publisher_meta": {
+                "name_fa": publisher.get("name_fa"),
+                "abbr": publisher.get("abbr"),
+                "domain": publisher.get("domain"),
+                "color": publisher.get("color"),
+            },
             "fact_check": fact_check,
         }
         store["items"].insert(0, record)

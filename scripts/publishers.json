@@ -1,11 +1,15 @@
 {
-  "methodology_note": "Reliability ratings are qualitative summaries of independent third-party media evaluators (Ad Fontes Media's Media Bias Chart, Media Bias/Fact Check, AllSides), not scores invented by this project. They describe track record for factual accuracy, not agreement with any political viewpoint. Re-check periodically -- outlets can and do change over time.",
-  "last_reviewed": "2026-08-12",
+  "methodology_note": "Reliability ratings are qualitative summaries of independent third-party media evaluators (Ad Fontes Media's Media Bias Chart, Media Bias/Fact Check, AllSides), not scores invented by this project. They describe track record for factual accuracy, not agreement with any political viewpoint. Re-check periodically -- outlets can and do change over time. Brand colors are approximate visual accents for quick recognition, not official reproductions of trademarked assets.",
+  "last_reviewed": "2026-08-15",
   "publishers": [
     {
       "id": "bbc",
       "name": "BBC News",
+      "name_fa": "بی‌بی‌سی نیوز",
+      "abbr": "BBC",
       "homepage": "https://www.bbc.com/news",
+      "domain": "bbc.com",
+      "color": "#BB1919",
       "rss": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "funding_model": "Public broadcaster funded by the UK license fee; editorial independence set out in its Royal Charter.",
       "reliability": {
@@ -17,7 +21,11 @@
     {
       "id": "npr",
       "name": "NPR",
+      "name_fa": "ان‌پی‌آر",
+      "abbr": "NPR",
       "homepage": "https://www.npr.org",
+      "domain": "npr.org",
+      "color": "#F15B1C",
       "rss": "https://feeds.npr.org/1001/rss.xml",
       "funding_model": "Nonprofit member organization; funded by member station fees, sponsorships and listener donations rather than a single owner.",
       "reliability": {
@@ -29,7 +37,11 @@
     {
       "id": "pbs-newshour",
       "name": "PBS NewsHour",
+      "name_fa": "پی‌بی‌اس نیوزآور",
+      "abbr": "PBS",
       "homepage": "https://www.pbs.org/newshour",
+      "domain": "pbs.org",
+      "color": "#0A3161",
       "rss": "https://www.pbs.org/newshour/feeds/rss/headlines",
       "funding_model": "Nonprofit public broadcasting, funded by federal/state grants, viewer donations and corporate sponsorship -- no single commercial owner.",
       "reliability": {
@@ -41,7 +53,11 @@
     {
       "id": "dw",
       "name": "Deutsche Welle (DW)",
+      "name_fa": "دویچه‌وله",
+      "abbr": "DW",
       "homepage": "https://www.dw.com/en/",
+      "domain": "dw.com",
+      "color": "#1B3A6B",
       "rss": "https://rss.dw.com/rdf/rss-en-top",
       "funding_model": "Germany's state-funded international broadcaster; independence from government influence is set by the Deutsche Welle Act.",
       "reliability": {
@@ -53,7 +69,11 @@
     {
       "id": "aljazeera",
       "name": "Al Jazeera English",
+      "name_fa": "الجزیره (انگلیسی)",
+      "abbr": "AJ",
       "homepage": "https://www.aljazeera.com",
+      "domain": "aljazeera.com",
+      "color": "#FA9E1B",
       "rss": "https://www.aljazeera.com/xml/rss/all.xml",
       "funding_model": "Funded by the Qatari state; operates with substantial day-to-day editorial autonomy but this ownership link is worth surfacing to readers, not hiding.",
       "reliability": {
@@ -65,7 +85,11 @@
     {
       "id": "csmonitor",
       "name": "The Christian Science Monitor",
+      "name_fa": "کریسچن ساینس مانیتور",
+      "abbr": "CSM",
       "homepage": "https://www.csmonitor.com",
+      "domain": "csmonitor.com",
+      "color": "#1B4B43",
       "rss": "https://rss.csmonitor.com/feeds/world",
       "funding_model": "Nonprofit-backed newspaper; explicitly avoids sensationalism as an editorial policy.",
       "reliability": {
@@ -77,7 +101,11 @@
     {
       "id": "propublica",
       "name": "ProPublica",
+      "name_fa": "پروپابلیکا",
+      "abbr": "PP",
       "homepage": "https://www.propublica.org",
+      "domain": "propublica.org",
+      "color": "#DE2020",
       "rss": "https://feeds.propublica.org/propublica/main",
       "funding_model": "Nonprofit investigative newsroom funded by grants and reader donations, not advertising or a single proprietor.",
       "reliability": {
@@ -89,7 +117,11 @@
     {
       "id": "guardian",
       "name": "The Guardian",
+      "name_fa": "گاردین",
+      "abbr": "GDN",
       "homepage": "https://www.theguardian.com",
+      "domain": "theguardian.com",
+      "color": "#052962",
       "rss": "https://www.theguardian.com/world/rss",
       "funding_model": "Owned by the Scott Trust, a structure created specifically to preserve editorial independence from commercial or political owners.",
       "reliability": {
@@ -101,7 +133,11 @@
     {
       "id": "reuters",
       "name": "Reuters",
+      "name_fa": "رویترز",
+      "abbr": "RTR",
       "homepage": "https://www.reuters.com",
+      "domain": "reuters.com",
+      "color": "#FF8000",
       "rss": null,
       "funding_model": "Global wire service; part of Thomson Reuters. Reuters retired its public RSS feeds in 2020.",
       "reliability": {
@@ -113,7 +149,11 @@
     {
       "id": "ap",
       "name": "Associated Press (AP)",
+      "name_fa": "آسوشیتدپرس",
+      "abbr": "AP",
       "homepage": "https://apnews.com",
+      "domain": "apnews.com",
+      "color": "#D50032",
       "rss": null,
       "funding_model": "Nonprofit news cooperative owned by its member newspapers and broadcasters.",
       "reliability": {
