@@ -1,0 +1,126 @@
+{
+  "methodology_note": "Reliability ratings are qualitative summaries of independent third-party media evaluators (Ad Fontes Media's Media Bias Chart, Media Bias/Fact Check, AllSides), not scores invented by this project. They describe track record for factual accuracy, not agreement with any political viewpoint. Re-check periodically -- outlets can and do change over time.",
+  "last_reviewed": "2026-08-12",
+  "publishers": [
+    {
+      "id": "bbc",
+      "name": "BBC News",
+      "homepage": "https://www.bbc.com/news",
+      "rss": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "funding_model": "Public broadcaster funded by the UK license fee; editorial independence set out in its Royal Charter.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      }
+    },
+    {
+      "id": "npr",
+      "name": "NPR",
+      "homepage": "https://www.npr.org",
+      "rss": "https://feeds.npr.org/1001/rss.xml",
+      "funding_model": "Nonprofit member organization; funded by member station fees, sponsorships and listener donations rather than a single owner.",
+      "reliability": {
+        "rating": "High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      }
+    },
+    {
+      "id": "pbs-newshour",
+      "name": "PBS NewsHour",
+      "homepage": "https://www.pbs.org/newshour",
+      "rss": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "funding_model": "Nonprofit public broadcasting, funded by federal/state grants, viewer donations and corporate sponsorship -- no single commercial owner.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      }
+    },
+    {
+      "id": "dw",
+      "name": "Deutsche Welle (DW)",
+      "homepage": "https://www.dw.com/en/",
+      "rss": "https://rss.dw.com/rdf/rss-en-top",
+      "funding_model": "Germany's state-funded international broadcaster; independence from government influence is set by the Deutsche Welle Act.",
+      "reliability": {
+        "rating": "High",
+        "trackers": ["Media Bias/Fact Check"],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      }
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera English",
+      "homepage": "https://www.aljazeera.com",
+      "rss": "https://www.aljazeera.com/xml/rss/all.xml",
+      "funding_model": "Funded by the Qatari state; operates with substantial day-to-day editorial autonomy but this ownership link is worth surfacing to readers, not hiding.",
+      "reliability": {
+        "rating": "High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      }
+    },
+    {
+      "id": "csmonitor",
+      "name": "The Christian Science Monitor",
+      "homepage": "https://www.csmonitor.com",
+      "rss": "https://rss.csmonitor.com/feeds/world",
+      "funding_model": "Nonprofit-backed newspaper; explicitly avoids sensationalism as an editorial policy.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
+      }
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "homepage": "https://www.propublica.org",
+      "rss": "https://feeds.propublica.org/propublica/main",
+      "funding_model": "Nonprofit investigative newsroom funded by grants and reader donations, not advertising or a single proprietor.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      }
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "homepage": "https://www.theguardian.com",
+      "rss": "https://www.theguardian.com/world/rss",
+      "funding_model": "Owned by the Scott Trust, a structure created specifically to preserve editorial independence from commercial or political owners.",
+      "reliability": {
+        "rating": "High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      }
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "homepage": "https://www.reuters.com",
+      "rss": null,
+      "funding_model": "Global wire service; part of Thomson Reuters. Reuters retired its public RSS feeds in 2020.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Included in the publisher list for completeness. No free RSS is available -- fetch_news.py skips it until a paid API or licensed feed is wired in."
+      }
+    },
+    {
+      "id": "ap",
+      "name": "Associated Press (AP)",
+      "homepage": "https://apnews.com",
+      "rss": null,
+      "funding_model": "Nonprofit news cooperative owned by its member newspapers and broadcasters.",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": ["Ad Fontes Media", "Media Bias/Fact Check"],
+        "note": "Included for completeness. No free public RSS -- same status as Reuters, needs a paid API or licensed feed."
+      }
+    }
+  ]
+}
