@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Startstar Wire — Live News, Rated for Reliability</title>
+<meta name="description" content="A live wire of headlines from independent, high-reliability publishers like BBC, The Guardian and NPR — each rated for publisher reliability and fact-check status.">
+<link rel="canonical" href="https://news.startstar.ir/en/">
+<link rel="alternate" hreflang="fa" href="https://news.startstar.ir/">
+<link rel="alternate" hreflang="en" href="https://news.startstar.ir/en/">
+<link rel="alternate" hreflang="x-default" href="https://news.startstar.ir/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Startstar Wire">
+<meta property="og:title" content="Startstar Wire — Live News, Rated for Reliability">
+<meta property="og:description" content="A live wire of headlines from independent, high-reliability publishers, each rated for publisher reliability and fact-check status.">
+<meta property="og:url" content="https://news.startstar.ir/en/">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="fa_IR">
+<meta name="twitter:card" content="summary">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Startstar Wire",
+  "url": "https://news.startstar.ir/en/",
+  "inLanguage": ["en", "fa"],
+  "description": "A live wire of headlines from independent, high-reliability international publishers, each rated for publisher reliability and fact-check status."
+}
+</script>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wordmark">
+    <span class="dot" aria-hidden="true"></span>
+    <h1>Startstar Wire</h1>
+    <span class="tagline">Live headlines, rated for source reliability &amp; fact-check status</span>
+  </div>
+  <div class="masthead-right">
+    <div class="clock">
+      <span class="live-tag">● LIVE</span>
+      <span id="clock-time">--:--:--</span>
+      <span>·</span>
+      <span id="last-fetch">checking feed…</span>
+    </div>
+    <a class="lang-switch" href="/" hreflang="fa">فارسی</a>
+  </div>
+</header>
+
+<nav class="filters" id="filters">
+  <button class="chip" data-filter="all" aria-pressed="true">All <span class="count" id="count-all">0</span></button>
+  <button class="chip" data-filter="reviewed-positive">Verified <span class="count" id="count-verified">0</span></button>
+  <button class="chip" data-filter="reviewed-negative">Disputed <span class="count" id="count-disputed">0</span></button>
+  <button class="chip" data-filter="reviewed-mixed">Mixed <span class="count" id="count-mixed">0</span></button>
+  <button class="chip" data-filter="unreviewed">Unreviewed <span class="count" id="count-unreviewed">0</span></button>
+  <button class="methodology-link" id="open-methodology">How ratings work ⓘ</button>
+</nav>
+
+<main>
+  <h2 class="visually-hidden">Latest headlines</h2>
+  <ol id="feed" aria-live="polite" aria-label="Live news feed"></ol>
+  <div class="state" id="empty-state" hidden>
+    <strong>Wire's quiet.</strong>
+    The first fetch hasn't run yet. Run the "Fetch News" GitHub Action manually, or wait for its next scheduled run.
+  </div>
+  <div class="state" id="error-state" hidden>
+    <strong>Can't reach the feed.</strong>
+    This page needs to be served (e.g. by GitHub Pages) to load the data file — opening it directly won't work.
+  </div>
+  <noscript>
+    <div class="state"><strong>JavaScript is disabled.</strong> Please enable JavaScript to view the live news feed.</div>
+  </noscript>
+</main>
+
+<section class="about">
+  <h2>About Startstar Wire</h2>
+  <p>Startstar Wire is an automated headline feed that pulls the latest stories from a fixed list of independent, high-reliability international publishers, refreshing roughly every 15 minutes. The goal is to show a headline alongside the context needed to judge it, not to replace the reporting itself.</p>
+  <p>Every headline carries two independent signals. The <strong>publisher credential</strong> reflects reliability ratings from established third-party media evaluators such as Ad Fontes Media, Media Bias/Fact Check and AllSides — not this project's own opinion of a source. The <strong>fact-check stamp</strong> is a live lookup against Google's Fact Check Tools API, which surfaces a verdict only when a professional fact-checker has already reviewed that specific claim. Most fresh headlines are honestly marked "Unreviewed" rather than guessed at.</p>
+  <p>The project is open source, built on GitHub Actions and GitHub Pages, with no tracking and no ads.</p>
+</section>
+
+<section class="sources">
+  <h2>Sources in this feed</h2>
+  <ul class="source-list">
+    <li><span class="pub-badge" style="--pub-color:#BB1919"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=bbc.com"></span><span class="src-name">BBC News</span></li>
+    <li><span class="pub-badge" style="--pub-color:#F15B1C"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=npr.org"></span><span class="src-name">NPR</span></li>
+    <li><span class="pub-badge" style="--pub-color:#0A3161"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=pbs.org"></span><span class="src-name">PBS NewsHour</span></li>
+    <li><span class="pub-badge" style="--pub-color:#1B3A6B"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=dw.com"></span><span class="src-name">Deutsche Welle</span></li>
+    <li><span class="pub-badge" style="--pub-color:#FA9E1B"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com"></span><span class="src-name">Al Jazeera English</span></li>
+    <li><span class="pub-badge" style="--pub-color:#1B4B43"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=csmonitor.com"></span><span class="src-name">Christian Science Monitor</span></li>
+    <li><span class="pub-badge" style="--pub-color:#DE2020"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=propublica.org"></span><span class="src-name">ProPublica</span></li>
+    <li><span class="pub-badge" style="--pub-color:#052962"><img class="pub-favicon" alt="" loading="lazy" src="https://www.google.com/s2/favicons?sz=64&domain=theguardian.com"></span><span class="src-name">The Guardian</span></li>
+  </ul>
+</section>
+
+<footer class="site-footer">
+  <span>Open source on <a href="https://github.com/aliaslany/newNews" target="_blank" rel="noopener">GitHub</a></span>
+  <span>No tracking · No ads</span>
+</footer>
+
+<dialog id="methodology">
+  <div class="methodology-inner">
+    <h3>How the ratings work</h3>
+    <p><strong>Publisher credential</strong> reflects independent, third-party media evaluators (Ad Fontes Media, Media Bias/Fact Check, AllSides) — not this project's own opinion of a source.</p>
+    <p><strong>Fact-check stamps</strong> come from Google's Fact Check Tools API, which surfaces existing ClaimReview entries from professional fact-checkers. Most fresh headlines won't have a match yet — that's normal, not a sign anything is wrong. "Unreviewed" simply means no fact-checker has published a review of that specific claim yet.</p>
+    <button id="close-methodology">Close</button>
+  </div>
+</dialog>
+
+<script src="/assets/app.js"></script>
+</body>
+</html>
