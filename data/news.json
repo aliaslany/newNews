@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-08-14T19:57:07.380026+00:00",
+  "generated_at": "2026-08-14T20:27:27.226140+00:00",
   "items": [
+    {
+      "id": "35c99d0045e6ef4e",
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "published_raw": "Fri, 14 Aug 2026 19:44:43 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-14T20:27:26.925969+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8e43d285cc0173eb",
+      "title": "Jason Arday: Ex-Cambridge professor found dead — reports",
+      "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-found-dead-reports/a-78377633?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-14T20:03:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-14T20:27:26.528147+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1d1c9f5c13950e4c",
+      "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
+      "url": "https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago",
+      "published_raw": "Fri, 14 Aug 2026 16:16:56 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-14T20:27:26.125575+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "b94fec7d76c817f2",
       "title": "New aerial video reveals huge scale of oil spill off Oman",
