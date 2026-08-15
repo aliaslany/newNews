@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-08-15T14:45:55.280540+00:00",
+  "generated_at": "2026-08-15T15:12:07.267686+00:00",
   "items": [
+    {
+      "id": "6411984dc2c5bccc",
+      "title": "In Germany, record heat meets climate action fatigue",
+      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-15T14:51:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-15T15:12:06.967474+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e10f2267cc3a5275",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
+      "url": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
+      "published_raw": "Sat, 15 Aug 2026 11:01:06 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-15T15:12:06.597556+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "36f2be8cf2ed1d4a",
       "title": "The next Yemen war might be different",
@@ -4748,48 +4801,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-14T13:44:56.088169+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f9c4b9d9e8f9e401",
-      "title": "US missionary kidnapped in Niger released after nine months in captivity",
-      "url": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
-      "published_raw": "Fri, 14 Aug 2026 12:54:30 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-14T13:44:55.605892+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3066ba2c0ef7322c",
-      "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-      "published_raw": "Fri, 14 Aug 2026 13:04:23 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-14T13:44:55.127803+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
