@@ -1,6 +1,85 @@
 {
-  "generated_at": "2026-08-15T15:34:08.784574+00:00",
+  "generated_at": "2026-08-15T15:55:09.057409+00:00",
   "items": [
+    {
+      "id": "0fe72f65614b0878",
+      "title": "Trump's Latin America allies open arms to Israel",
+      "url": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-15T11:35:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-15T15:55:08.757191+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "4bab34f9cd0b2345",
+      "title": "Lebanon says 11 killed in Israeli airstrikes",
+      "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-15T15:35:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-15T15:55:08.358570+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "593686bf4bff970a",
+      "title": "Israeli airstrikes on southern Lebanon kill 11 people, Health Ministry says",
+      "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
+      "published_raw": "Sat, 15 Aug 2026 11:47:14 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-15T15:55:07.985679+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "ba4fef45bd6d51d2",
       "title": "How blind football is helping women overcome barriers in Mexico",
@@ -4763,69 +4842,6 @@
           "Media Bias/Fact Check"
         ],
         "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2b1811f4eeae05fb",
-      "title": "Brazilians weigh the benefits of AI facial recognition against the costs",
-      "url": "https://www.csmonitor.com/World/Americas/2026/0813/brazil-facial-recognition-artificial-intelligence?icid=rss",
-      "published_raw": "Thu, 13 Aug 2026 14:53:36 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-08-14T13:44:58.446128+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ff0c1817b260a97d",
-      "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
-      "url": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
-      "published_raw": "Fri, 14 Aug 2026 11:57:56 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-14T13:44:57.942533+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f83f254b3a818080",
-      "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss",
-      "published_raw": "Fri, 14 Aug 2026 12:02:02 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-14T13:44:57.453861+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
       },
       "fact_check": {
         "status": "error",
