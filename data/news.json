@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-15T14:24:36.522985+00:00",
+  "generated_at": "2026-08-15T14:45:55.280540+00:00",
   "items": [
+    {
+      "id": "36f2be8cf2ed1d4a",
+      "title": "The next Yemen war might be different",
+      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "published_raw": "Sat, 15 Aug 2026 14:32:07 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-15T14:45:54.980372+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "56c6e0eea1c99219",
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 15 Aug 2026 14:21:24 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-08-15T14:45:54.630536+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "a90290b341fc47d6",
       "title": "Five years on, how will Taliban deal with armed opposition?",
@@ -4743,47 +4797,6 @@
           "Media Bias/Fact Check"
         ],
         "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5cefe292724ace78",
-      "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
-      "published_raw": "Fri, 14 Aug 2026 13:07:19 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-14T13:44:54.639207+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d5a5c00e6de654b0",
-      "title": "Germany news: Wildfire forces evacuations in western woods",
-      "url": "https://www.dw.com/en/germany-news-wildfire-forces-evacuations-in-western-woods/live-78361311?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-08-14T09:03:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-08-14T13:44:54.155199+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
       },
       "fact_check": {
         "status": "error",
