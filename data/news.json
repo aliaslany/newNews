@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-15T20:38:34.256165+00:00",
+  "generated_at": "2026-08-15T20:57:40.994220+00:00",
   "items": [
+    {
+      "id": "84b98f0f34c97b43",
+      "title": "Indiana authorities say at least 5 people have died in flooding across the state",
+      "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
+      "published_raw": "Sat, 15 Aug 2026 16:39:01 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-15T20:57:40.693991+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "858f67b681f5bff5",
       "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
@@ -5148,27 +5175,6 @@
           "Media Bias/Fact Check"
         ],
         "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "322f77644601c416",
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "published_raw": "Fri, 14 Aug 2026 12:37:54 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-14T17:24:39.751864+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
       },
       "fact_check": {
         "status": "error",
