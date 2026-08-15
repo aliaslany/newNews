@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-15T10:41:02.494532+00:00",
+  "generated_at": "2026-08-15T10:58:04.003866+00:00",
   "items": [
+    {
+      "id": "df9e01da07698463",
+      "title": "At scene of deadly Israeli strike on Lebanon home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "published_raw": "Sat, 15 Aug 2026 10:18:40 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-15T10:58:03.703739+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "be157e64cddd4e10",
       "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
@@ -4617,27 +4644,6 @@
           "Media Bias/Fact Check"
         ],
         "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "00a984f284c54ac6",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Thu, 13 Aug 2026 21:43:47 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-08-14T13:44:42.495663+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
       },
       "fact_check": {
         "status": "error",
