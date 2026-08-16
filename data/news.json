@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-15T23:57:02.775571+00:00",
+  "generated_at": "2026-08-16T01:05:14.666388+00:00",
   "items": [
+    {
+      "id": "d6e31ceef73c7a20",
+      "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "published_raw": "Sun, 16 Aug 2026 00:00:45 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-16T01:05:14.366132+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "642bab9a4140f1f3",
       "title": "At least five reported dead amid flooding in US state of Indiana",
@@ -5294,27 +5321,6 @@
           "Media Bias/Fact Check"
         ],
         "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ce149e67c29b7950",
-      "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
-      "published_raw": "Fri, 14 Aug 2026 15:17:17 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-08-14T19:57:06.101706+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
       },
       "fact_check": {
         "status": "error",
