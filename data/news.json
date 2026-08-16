@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-16T23:34:37.979803+00:00",
+  "generated_at": "2026-08-16T23:55:10.981086+00:00",
   "items": [
+    {
+      "id": "a828de772aebf4f5",
+      "title": "House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare",
+      "url": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
+      "published_raw": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-08-16T23:55:10.680942+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "e8dd7e0797d18271",
       "title": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
@@ -5340,33 +5367,6 @@
       "source_id": "guardian",
       "source_name": "The Guardian",
       "fetched_at": "2026-08-15T17:42:48.782384+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3b3444445ced6c05",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "published_raw": "Fri, 14 Aug 2026 14:55:17 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-08-15T17:42:48.420549+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
