@@ -1,6 +1,141 @@
 {
-  "generated_at": "2026-08-17T23:15:28.361598+00:00",
+  "generated_at": "2026-08-17T23:44:27.448281+00:00",
   "items": [
+    {
+      "id": "3b3444445ced6c05",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "published_raw": "Fri, 14 Aug 2026 14:55:17 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-08-17T23:44:27.147994+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e8dd7e0797d18271",
+      "title": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
+      "url": "https://www.propublica.org/article/lead-remediation-epa-standards-omaha-nebraska",
+      "published_raw": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-08-17T23:44:26.787046+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9d901508bb0281ea",
+      "title": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "url": "https://www.propublica.org/article/foia-requests-responses",
+      "published_raw": "Tue, 11 Aug 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-08-17T23:44:26.406738+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d5ba6c93387f72b8",
+      "title": "“They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps",
+      "url": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
+      "published_raw": "Wed, 12 Aug 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-08-17T23:44:26.017922+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "18b7b75a84397998",
+      "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+      "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+      "published_raw": "Mon, 17 Aug 2026 23:25:17 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-17T23:44:25.614355+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "ef5b7e08282cf078",
       "title": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
@@ -5235,140 +5370,6 @@
         "abbr": "BBC",
         "domain": "bbc.com",
         "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9ce1ec366748978b",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "published_raw": "Thu, 13 Aug 2026 15:17:13 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-08-17T02:09:17.464270+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b023927c0c8789fa",
-      "title": "Can the AU make its current Sudan mission count?",
-      "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
-      "published_raw": "Mon, 17 Aug 2026 01:13:37 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-17T02:09:17.122077+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5f9d0dd91ea15c9d",
-      "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-      "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
-      "published_raw": "Mon, 17 Aug 2026 01:28:13 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-17T02:09:16.779364+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "0aaca4947ac220f4",
-      "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
-      "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-      "published_raw": "Mon, 17 Aug 2026 01:41:40 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-17T02:09:16.427818+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "51e22cfe484e8f40",
-      "title": "Trump orders to scale back US-South Korea military drills",
-      "url": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-08-17T01:18:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-08-17T02:09:16.082063+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
       },
       "fact_check": {
         "status": "error",
