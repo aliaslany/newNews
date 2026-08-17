@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-17T02:09:17.764456+00:00",
+  "generated_at": "2026-08-17T03:11:22.084484+00:00",
   "items": [
+    {
+      "id": "47be84f8ad35803e",
+      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
+      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
+      "published_raw": "Mon, 17 Aug 2026 02:27:39 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-17T03:11:21.784274+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "29c1e5ffdb284b78",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Mon, 17 Aug 2026 02:51:27 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-08-17T03:11:21.437182+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "9ce1ec366748978b",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -5325,60 +5379,6 @@
         "abbr": "AJ",
         "domain": "aljazeera.com",
         "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "300d18c24485b482",
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "published_raw": "Fri, 14 Aug 2026 14:04:49 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-08-15T18:24:14.184763+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d6da67f92276a1d1",
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "published_raw": "Sat, 15 Aug 2026 18:08:21 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-08-15T18:24:13.657373+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
       },
       "fact_check": {
         "status": "error",
