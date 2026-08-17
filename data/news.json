@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-17T21:47:41.582180+00:00",
+  "generated_at": "2026-08-17T22:15:21.446588+00:00",
   "items": [
+    {
+      "id": "5d0abf4276de79a3",
+      "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+      "url": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+      "published_raw": "Mon, 17 Aug 2026 21:39:22 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-17T22:15:21.146376+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "2b1811f4eeae05fb",
       "title": "Brazilians weigh the benefits of AI facial recognition against the costs",
@@ -5343,33 +5370,6 @@
         "abbr": "PP",
         "domain": "propublica.org",
         "color": "#DE2020"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "80a81856bdd2d959",
-      "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
-      "url": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
-      "published_raw": "Sun, 16 Aug 2026 21:51:39 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-16T22:14:05.182395+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
       },
       "fact_check": {
         "status": "error",
