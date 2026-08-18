@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-18T13:23:47.602162+00:00",
+  "generated_at": "2026-08-18T14:04:00.559604+00:00",
   "items": [
+    {
+      "id": "9bfeafc283ff4935",
+      "title": "Fact check: How do I spot AI-generated images?",
+      "url": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-18T13:59:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-18T14:04:00.259409+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "aba9f2495c7ca884",
       "title": "Myanmar: The Architecture of Statelessness",
@@ -5331,33 +5357,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-17T16:52:39.060273+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3274e88a5dc2bcd8",
-      "title": "Somali army clashes with rebel forces for control of key city Baidoa",
-      "url": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
-      "published_raw": "Mon, 17 Aug 2026 16:24:43 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-17T16:52:38.651391+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
