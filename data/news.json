@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-08-19T22:15:59.290467+00:00",
+  "generated_at": "2026-08-19T22:48:34.790166+00:00",
   "items": [
+    {
+      "id": "1f2f183ae5d023a9",
+      "title": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
+      "url": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-19T22:23:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-19T22:48:34.489964+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e3afeb0652b7c118",
+      "title": "Israel's deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit",
+      "url": "https://www.pbs.org/newshour/world/israels-deadly-gaza-strikes-cast-doubt-on-ceasefire-progress-days-after-kushner-visit",
+      "published_raw": "Wed, 19 Aug 2026 18:14:52 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-19T22:48:33.986824+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3cd2bb2d189dbaed",
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "url": "https://www.pbs.org/newshour/show/what-to-know-about-dr-heidi-overton-trumps-pick-to-lead-the-fda",
+      "published_raw": "Wed, 19 Aug 2026 18:40:07 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-19T22:48:33.504483+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "6cd2f7005658cb81",
       "title": "What the social media addiction lawsuit could cost Meta",
@@ -5273,87 +5353,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-19T05:53:44.754772+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f5757264997d446a",
-      "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-      "url": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-      "published_raw": "Wed, 19 Aug 2026 05:23:03 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-19T05:53:44.355657+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "61ef18ffe440d1e8",
-      "title": "At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability.",
-      "url": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
-      "published_raw": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "source_id": "propublica",
-      "source_name": "ProPublica",
-      "fetched_at": "2026-08-19T05:22:07.926870+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
-      },
-      "publisher_meta": {
-        "name_fa": "پروپابلیکا",
-        "abbr": "PP",
-        "domain": "propublica.org",
-        "color": "#DE2020"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8e4187e41e6f7df4",
-      "title": "South Korea, US scale back annual military drills after Trump’s order",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
-      "published_raw": "Wed, 19 Aug 2026 04:59:32 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-19T05:22:07.577847+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
