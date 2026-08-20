@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-20T09:57:53.611540+00:00",
+  "generated_at": "2026-08-20T10:28:35.191424+00:00",
   "items": [
+    {
+      "id": "924a55403a4c186e",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Thu, 20 Aug 2026 10:07:48 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-08-20T10:28:34.891226+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "fab418970a48843c",
       "title": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
@@ -5346,33 +5373,6 @@
         "abbr": "CSM",
         "domain": "csmonitor.com",
         "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "afd45dafc465f4f8",
-      "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
-      "published_raw": "Wed, 19 Aug 2026 13:20:08 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-19T14:04:47.158427+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
       },
       "fact_check": {
         "status": "error",
