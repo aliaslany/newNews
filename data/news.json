@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-08-22T02:20:37.442708+00:00",
+  "generated_at": "2026-08-22T03:13:08.777841+00:00",
   "items": [
+    {
+      "id": "7d35871445f2b4bb",
+      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+      "published_raw": "Sat, 22 Aug 2026 02:09:58 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-22T03:13:08.477630+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8679c8a9c5f0d117",
+      "title": "Pentagon fires military newspaper leadership for 'insubordination'",
+      "url": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-22T02:55:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-22T03:13:08.119100+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "94c33ba795519014",
       "title": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
@@ -5319,60 +5372,6 @@
         "abbr": "DW",
         "domain": "dw.com",
         "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9cd2d10ab73d94c0",
-      "title": "'Survival mode': Indiana residents endure a ninth day without power",
-      "url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
-      "published_raw": "Fri, 21 Aug 2026 02:40:26 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-21T07:27:28.559004+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1e9671fa8ec9e746",
-      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-      "published_raw": "Fri, 21 Aug 2026 02:41:33 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-21T07:27:28.219292+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
       },
       "fact_check": {
         "status": "error",
