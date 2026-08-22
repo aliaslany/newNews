@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-22T07:44:08.998710+00:00",
+  "generated_at": "2026-08-22T08:01:41.762615+00:00",
   "items": [
+    {
+      "id": "8a0debbab0a74344",
+      "title": "Federal government thins the herds of wild horses in Colorado",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+      "published_raw": "Fri, 21 Aug 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-08-22T08:01:41.462400+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "6a08250f94d8f0f0",
       "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
@@ -5349,33 +5376,6 @@
         "abbr": "PP",
         "domain": "propublica.org",
         "color": "#DE2020"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "312f68fa959c40d0",
-      "title": "From mahjong clubs to ‘Chinamaxxing,’ why Chinese culture seems to be everywhere",
-      "url": "https://www.csmonitor.com/World/Asia-Pacific/2026/0818/mahjong-chinamaxxing-China-soft-power?icid=rss",
-      "published_raw": "Tue, 18 Aug 2026 13:03:24 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-08-21T09:29:58.141428+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
       },
       "fact_check": {
         "status": "error",
