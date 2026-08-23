@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-23T20:40:34.226057+00:00",
+  "generated_at": "2026-08-23T20:57:40.481677+00:00",
   "items": [
+    {
+      "id": "979904175f0bf262",
+      "title": "Frustration builds in Indiana town struggling without power for 12 days",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sun, 23 Aug 2026 15:54:32 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-08-23T20:57:40.181504+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "eed98623f134535c",
       "title": "Severe winds toss four aircraft across Italian airport tarmac",
@@ -5333,33 +5360,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-22T16:20:02.790928+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ac19d3cdb4f29285",
-      "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-      "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-      "published_raw": "Sat, 22 Aug 2026 15:30:49 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-22T15:57:17.339058+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
