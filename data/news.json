@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-23T19:16:06.192148+00:00",
+  "generated_at": "2026-08-23T19:42:50.369514+00:00",
   "items": [
+    {
+      "id": "5a99684533fa2e32",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "published_raw": "Sat, 22 Aug 2026 14:04:57 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-08-23T19:42:50.069320+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "435741061eeb1a34",
+      "title": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November",
+      "url": "https://www.pbs.org/newshour/politics/jared-kushner-and-democratic-leader-jeffries-meet-with-house-control-at-stake-in-november",
+      "published_raw": "Sun, 23 Aug 2026 15:34:55 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-23T19:42:49.666876+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "829a5569ea02eb28",
       "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
@@ -5321,59 +5375,6 @@
         "abbr": "GDN",
         "domain": "theguardian.com",
         "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2b7a65b0780e1de8",
-      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-      "published_raw": "Sat, 22 Aug 2026 14:37:40 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-22T15:16:48.137530+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "67bf43a3f27aea14",
-      "title": "Germany news: Friedrich Merz visits area struck by fires",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-08-22T08:20:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-08-22T15:16:47.659740+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
       },
       "fact_check": {
         "status": "error",
