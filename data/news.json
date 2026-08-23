@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-08-23T08:34:43.561444+00:00",
+  "generated_at": "2026-08-23T09:02:02.955509+00:00",
   "items": [
+    {
+      "id": "fd50ba0f4d8c1a75",
+      "title": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
+      "url": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "published_raw": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-08-23T09:02:02.655295+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "a912ec31e07c7956",
+      "title": "Kazakhstan parliamentary vote to cement president's power",
+      "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-to-cement-president-s-power/a-78474598?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-23T08:54:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-23T09:02:02.246895+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "101007b0ab47f99c",
       "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
@@ -5303,60 +5356,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-22T01:09:48.782484+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "67fa58f2a9189cc4",
-      "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-      "published_raw": "Sat, 22 Aug 2026 00:06:48 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-22T01:09:48.442859+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "695db291c2897ec1",
-      "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
-      "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
-      "published_raw": "Sat, 22 Aug 2026 00:32:35 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-22T01:09:48.104025+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
