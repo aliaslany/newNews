@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-23T11:13:39.359643+00:00",
+  "generated_at": "2026-08-23T11:34:53.424083+00:00",
   "items": [
+    {
+      "id": "4f3c880bf428123e",
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "published_raw": "Sun, 23 Aug 2026 11:00:16 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-08-23T11:34:53.123929+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "94c33ba795519014",
       "title": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
@@ -5342,33 +5369,6 @@
         "abbr": "AJ",
         "domain": "aljazeera.com",
         "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "6b50c91b2d83bbe2",
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "published_raw": "Sat, 22 Aug 2026 00:36:27 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-22T04:59:24.872542+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
       },
       "fact_check": {
         "status": "error",
