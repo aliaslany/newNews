@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-24T21:51:32.627874+00:00",
+  "generated_at": "2026-08-24T22:17:20.025587+00:00",
   "items": [
+    {
+      "id": "1a9a9293a50ac8e8",
+      "title": "Live Results: Oklahoma's midterm primary runoff",
+      "url": "https://www.pbs.org/newshour/politics/live-results-oklahomas-midterm-primary-runoff",
+      "published_raw": "Mon, 24 Aug 2026 17:45:44 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-24T22:17:19.725370+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "6b7692d45cf5c019",
+      "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
+      "published_raw": "Mon, 24 Aug 2026 04:45:49 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-08-24T22:17:19.221892+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "ceca376ef540c619",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
@@ -5306,60 +5360,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-24T03:29:38.078075+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2f8110388aae2c7d",
-      "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
-      "published_raw": "Mon, 24 Aug 2026 01:51:40 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-24T03:29:37.596572+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "cf92340b2c94ab2a",
-      "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss",
-      "published_raw": "Mon, 24 Aug 2026 02:02:28 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-24T03:29:37.102682+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
