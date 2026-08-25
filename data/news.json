@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-25T07:29:10.271971+00:00",
+  "generated_at": "2026-08-25T08:07:53.528083+00:00",
   "items": [
+    {
+      "id": "5a9758c9cd4a1296",
+      "title": "Middle East: Pakistan sees progress in US-Iran peace talks",
+      "url": "https://www.dw.com/en/middle-east-pakistan-sees-progress-in-us-iran-peace-talks/live-78492098?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-25T08:02:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-25T08:07:53.227909+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "75147f45a6919fe0",
       "title": "Libya factions draft initial election pact amid lingering mistrust",
@@ -5339,33 +5365,6 @@
       "source_id": "aljazeera",
       "source_name": "Al Jazeera English",
       "fetched_at": "2026-08-24T10:51:32.047955+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7242dadb1b6eed3f",
-      "title": "Dozens of coordinated arson attacks carried out across Thailand",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
-      "published_raw": "Mon, 24 Aug 2026 09:44:57 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-24T10:51:31.692581+00:00",
       "reliability": {
         "rating": "High",
         "trackers": [
