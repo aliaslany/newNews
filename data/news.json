@@ -1,6 +1,195 @@
 {
-  "generated_at": "2026-08-25T17:23:34.989382+00:00",
+  "generated_at": "2026-08-25T17:53:00.019279+00:00",
   "items": [
+    {
+      "id": "4bfca937dddc3375",
+      "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+      "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+      "published_raw": "Tue, 25 Aug 2026 17:35:16 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-08-25T17:52:59.719088+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "157ea12842519fb2",
+      "title": "Canada hits US with counter-tariffs on more than 700 products",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "published_raw": "Tue, 25 Aug 2026 17:08:54 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-25T17:52:59.235356+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "bf8803197cf41156",
+      "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+      "url": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+      "published_raw": "Tue, 25 Aug 2026 17:27:01 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-25T17:52:58.741451+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "34e1222a45a8a4b5",
+      "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+      "url": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+      "published_raw": "Tue, 25 Aug 2026 17:31:09 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-25T17:52:58.258324+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1e71fefceb048a4d",
+      "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+      "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+      "published_raw": "Tue, 25 Aug 2026 17:39:22 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-25T17:52:57.750668+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "71076e1373278516",
+      "title": "With gas stuck above $4, U.S. consumer confidence falls to lowest level in 7 months",
+      "url": "https://www.pbs.org/newshour/economy/with-gas-stuck-above-4-u-s-consumer-confidence-falls-to-lowest-level-in-7-months",
+      "published_raw": "Tue, 25 Aug 2026 13:26:05 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-25T17:52:57.256915+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "83c895ff44464ea1",
+      "title": "ICE arrests jump to nearly 50,000 in July, highest monthly total of Trump's crackdown",
+      "url": "https://www.pbs.org/newshour/nation/ice-arrests-jump-to-nearly-50000-in-july-highest-monthly-total-of-trumps-crackdown",
+      "published_raw": "Tue, 25 Aug 2026 13:38:24 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-08-25T17:52:56.748097+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "49240a8f429ef24f",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -5184,195 +5373,6 @@
         "abbr": "PBS",
         "domain": "pbs.org",
         "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d0bbcefb21420462",
-      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-      "published_raw": "Mon, 24 Aug 2026 17:17:31 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-24T22:50:50.828251+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7e154a781b3638ee",
-      "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-      "published_raw": "Mon, 24 Aug 2026 18:22:13 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-24T22:50:50.463627+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1a9a9293a50ac8e8",
-      "title": "Live Results: Oklahoma's midterm primary runoff",
-      "url": "https://www.pbs.org/newshour/politics/live-results-oklahomas-midterm-primary-runoff",
-      "published_raw": "Mon, 24 Aug 2026 17:45:44 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-08-24T22:17:19.725370+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "6b7692d45cf5c019",
-      "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
-      "published_raw": "Mon, 24 Aug 2026 04:45:49 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-08-24T22:17:19.221892+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ceca376ef540c619",
-      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "published_raw": "Sun, 23 Aug 2026 22:16:53 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-08-24T21:51:32.327663+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b20f86b2f6d974cc",
-      "title": "Migration is reshaping life for married women in Senegal",
-      "url": "https://www.csmonitor.com/World/2026/0820/senegal-women-migration-marriage?icid=rss",
-      "published_raw": "Thu, 20 Aug 2026 12:01:23 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-08-24T21:51:31.851183+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "806c492128415072",
-      "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-      "published_raw": "Mon, 24 Aug 2026 21:12:06 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-24T21:51:31.376440+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
       },
       "fact_check": {
         "status": "error",
