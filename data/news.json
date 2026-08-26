@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-08-26T04:22:22.932474+00:00",
+  "generated_at": "2026-08-26T05:02:55.793945+00:00",
   "items": [
+    {
+      "id": "4b29edfb08bea26f",
+      "title": "At least 15 newborns killed in Pakistan hospital fire",
+      "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+      "published_raw": "Wed, 26 Aug 2026 04:27:15 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-08-26T05:02:55.493731+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "a786d6ebfbd072ba",
+      "title": "US military kills 4 in Caribbean boat strike",
+      "url": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-08-26T04:55:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-08-26T05:02:55.115471+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "048f9179f9b10ac1",
       "title": "Who were the Syrian Democratic Forces and why dissolve?",
@@ -5322,59 +5375,6 @@
         "abbr": "AJ",
         "domain": "aljazeera.com",
         "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3750064bd2250dd1",
-      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-      "published_raw": "Tue, 25 Aug 2026 09:05:54 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-08-25T09:33:20.893349+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "e3e524b58ca9d6f3",
-      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
-      "url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-08-25T09:25:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-08-25T09:33:20.408437+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
       },
       "fact_check": {
         "status": "error",
