@@ -1,6 +1,276 @@
 {
-  "generated_at": "2026-09-11T23:53:05.051973+00:00",
+  "generated_at": "2026-09-12T02:20:15.787867+00:00",
   "items": [
+    {
+      "id": "c774cfa04ddb8bd7",
+      "title": "Babies born to anaemic mothers have smaller brains, study finds",
+      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "published_raw": "Wed, 09 Sep 2026 04:00:58 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-09-12T02:20:15.487645+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e353a6d48ae9b674",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+      "published_raw": "Thu, 10 Sep 2026 17:29:20 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-09-12T02:20:15.013517+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "5e93e3f86b703f62",
+      "title": "Nature is forever carving, and recarving, picturesque Upper Antelope Canyon",
+      "url": "https://www.csmonitor.com/World/2026/0910/upper-antelope-canyon-arizona?icid=rss",
+      "published_raw": "Thu, 10 Sep 2026 12:00:10 EDT",
+      "source_id": "csmonitor",
+      "source_name": "The Christian Science Monitor",
+      "fetched_at": "2026-09-12T02:20:14.544100+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
+      },
+      "publisher_meta": {
+        "name_fa": "کریسچن ساینس مانیتور",
+        "abbr": "CSM",
+        "domain": "csmonitor.com",
+        "color": "#1B4B43"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "2c017b2ba3e92032",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "published_raw": "Sat, 12 Sep 2026 00:00:00 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-12T02:20:14.065199+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "da36e16c1485510b",
+      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+      "published_raw": "Sat, 12 Sep 2026 00:04:23 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-12T02:20:13.595868+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e16f8636440581d9",
+      "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+      "url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
+      "published_raw": "Sat, 12 Sep 2026 00:36:44 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-12T02:20:13.125833+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "13f7374188613d04",
+      "title": "How Canadians are bracing for the impact of Trump’s trade war",
+      "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+      "published_raw": "Sat, 12 Sep 2026 00:52:00 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-12T02:20:12.770380+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "7ecfccc5fcd61024",
+      "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
+      "url": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
+      "published_raw": "Sat, 12 Sep 2026 01:22:41 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-12T02:20:12.267461+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "6421afafbd9146e1",
+      "title": "Officials in Nashville unite across the aisle over renaming airport after Dolly Parton",
+      "url": "https://www.pbs.org/newshour/politics/officials-in-nashville-unite-across-the-aisle-over-renaming-airport-after-dolly-parton",
+      "published_raw": "Fri, 11 Sep 2026 20:11:40 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-09-12T02:20:11.791565+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "149daf3ffce047ae",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 12 Sep 2026 00:31:16 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-12T02:20:11.314642+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "cd11a999fc4f48dd",
       "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
@@ -5104,270 +5374,6 @@
         "abbr": "AJ",
         "domain": "aljazeera.com",
         "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "4876c465a6194a06",
-      "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
-      "published_raw": "Thu, 10 Sep 2026 19:02:30 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-10T19:58:22.594078+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "214c9c5a9172f92e",
-      "title": "Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC",
-      "url": "https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss",
-      "published_raw": "Thu, 10 Sep 2026 19:03:14 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-10T19:58:22.067831+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "0a5d49efe777fff8",
-      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
-      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T16:17:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:21.565948+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1b0c7c688495215b",
-      "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
-      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T16:51:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:21.055500+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "18420d78e581789b",
-      "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
-      "url": "https://www.dw.com/en/25-years-after-9-11-al-qaeda-weakened-but-not-gone/a-79202457?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T18:05:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:20.549345+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8850614fda96b23a",
-      "title": "Canada, Ukraine pledge 100-year partnership",
-      "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T18:13:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:20.041496+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f8dba3d4c848f47a",
-      "title": "Digital data leeches: trading on our profiles",
-      "url": "https://www.dw.com/en/digital-data-leeches-trading-on-our-profiles/a-79219770?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T19:08:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:19.539477+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c7f72d52fdd39234",
-      "title": "Several killed in coach crash in eastern Switzerland",
-      "url": "https://www.dw.com/en/several-killed-in-coach-crash-in-eastern-switzerland/a-79221766?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-10T19:10:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-10T19:58:19.034770+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "973352db3be649cc",
-      "title": "Supreme Court again rejects push to use Trump-backed congressional map in Missouri",
-      "url": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri",
-      "published_raw": "Thu, 10 Sep 2026 13:23:13 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-10T19:58:18.533598+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "92ffc61b9e080f7e",
-      "title": "WATCH: What Trump told reporters near Ground Zero in 2001",
-      "url": "https://www.pbs.org/newshour/politics/watch-what-trump-told-reporters-near-ground-zero-in-2001",
-      "published_raw": "Thu, 10 Sep 2026 14:12:00 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-10T19:58:18.031162+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
       },
       "fact_check": {
         "status": "error",
