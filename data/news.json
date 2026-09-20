@@ -1,6 +1,141 @@
 {
-  "generated_at": "2026-09-19T23:32:11.600929+00:00",
+  "generated_at": "2026-09-20T01:37:51.133555+00:00",
   "items": [
+    {
+      "id": "17fb408577a91cb8",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "published_raw": "Fri, 18 Sep 2026 11:21:36 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-09-20T01:37:50.833287+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "314c5c557899f9be",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "published_raw": "Sun, 20 Sep 2026 00:00:00 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-20T01:37:50.359611+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9158c088370922cd",
+      "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+      "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+      "published_raw": "Sun, 20 Sep 2026 00:36:05 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-20T01:37:49.883032+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1633afb70f7fa721",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 19 Sep 2026 23:18:18 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-20T01:37:49.407343+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3a75ed0596cf1c5a",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sun, 20 Sep 2026 01:10:01 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-20T01:37:48.927480+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "d51f4ecd4cda2677",
       "title": "Why ProPublica Is Leaning Into Sports Investigations",
@@ -5225,141 +5360,6 @@
         "abbr": "DW",
         "domain": "dw.com",
         "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "944c3a5fbbdc0d3e",
-      "title": "Bipartisan criticism from senators about Pentagon briefing on U.S. defense strategy",
-      "url": "https://www.pbs.org/newshour/politics/bipartisan-criticism-from-senators-about-pentagon-briefing-on-u-s-defense-strategy",
-      "published_raw": "Fri, 18 Sep 2026 11:21:25 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-18T18:25:36.151443+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c19aaca045ff9dd4",
-      "title": "WATCH LIVE: Vance speaks at rally in Iowa as competitive midterm races heat up",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-vance-speaks-at-rally-in-iowa-as-competitive-midterm-races-heat-up",
-      "published_raw": "Fri, 18 Sep 2026 11:27:03 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-18T18:25:35.776328+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1eb4977bb106ef32",
-      "title": "Early voting begins in U.S. midterm elections that could flip control of Congress",
-      "url": "https://www.pbs.org/newshour/politics/early-voting-begins-in-u-s-midterm-elections-that-could-flip-control-of-congress",
-      "published_raw": "Fri, 18 Sep 2026 12:16:11 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-18T18:25:35.384059+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5ed9770c7c695f0b",
-      "title": "Attorney General Blanche blurs Justice Department boundaries by appearing at political events",
-      "url": "https://www.pbs.org/newshour/politics/attorney-general-blanche-blurs-justice-department-boundaries-by-appearing-at-political-events",
-      "published_raw": "Fri, 18 Sep 2026 12:44:56 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-18T18:25:34.904913+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "38eb047e079ca527",
-      "title": "Holdout juror in Clancy trial says he didn't have 'any doubts' that she was responsible for killing her kids",
-      "url": "https://www.pbs.org/newshour/nation/holdout-juror-in-clancy-trial-says-he-didnt-have-any-doubts-that-she-was-responsible-for-killing-her-kids",
-      "published_raw": "Fri, 18 Sep 2026 14:05:33 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-18T18:25:34.495056+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
       },
       "fact_check": {
         "status": "error",
