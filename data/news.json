@@ -1,6 +1,781 @@
 {
-  "generated_at": "2026-09-30T05:58:09.344229+00:00",
+  "generated_at": "2026-09-30T11:58:47.179074+00:00",
   "items": [
+    {
+      "id": "417c21844cc77fe1",
+      "title": "A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It.",
+      "url": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
+      "published_raw": "Wed, 30 Sep 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-09-30T11:58:46.878833+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "71b5e999fee71b73",
+      "title": "Former American Idol contestant found guilty of murdering wife",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 10:35:55 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:46.503264+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1880dbe8991e50c2",
+      "title": "What will happen to Man City after the Premier League’s guilty verdict?",
+      "url": "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:00:37 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:46.130928+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1c93c4bb2f5f7a26",
+      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
+      "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:01:10 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:45.740968+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "648db74e0e600723",
+      "title": "What’s behind French student protests that turned violent?",
+      "url": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:01:19 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:45.366597+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "406306fc3f2ef548",
+      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+      "url": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:03:01 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:44.992820+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "f668dacdfaf66431",
+      "title": "N Korea and S Korea exchange threats over DMZ blast",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:19:10 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:44.606610+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "04957a8f5af38986",
+      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
+      "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:32:24 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:44.184971+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "56af739e356d262d",
+      "title": "Ireland vs Israel Nations League match will go ahead, coach confirms",
+      "url": "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:36:35 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-09-30T11:58:43.841465+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3aef46855fd2c086",
+      "title": "El Nino is a 'postcard from the future' — and could cause 451,000 excess heat deaths",
+      "url": "https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T06:49:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:43.467684+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "c5727fc6bc8ad664",
+      "title": "Germany news: Cabinet approves care reform bill",
+      "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T08:10:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:43.093208+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "19b83dd4897b508b",
+      "title": "India news: Key opposition leaders meet to discuss poll body row",
+      "url": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T08:39:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:42.744835+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "5ceea45319a4fe36",
+      "title": "Eiffel Tower chief Patrick Branco Ruivo to step down after female staff excluded during Hindu group's visit",
+      "url": "https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T08:54:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:42.372890+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "94b167d58ef9eacd",
+      "title": "South Korea: Lost shark draws over half a million visitors",
+      "url": "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T09:07:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:41.997230+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "a490b5035220fbbd",
+      "title": "Eurovision seeks to expand brand despite frictions",
+      "url": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T09:18:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:41.622643+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "da9f5260cf16b99f",
+      "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'?",
+      "url": "https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T09:33:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:41.251717+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "626e8ef1e3818fb8",
+      "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
+      "url": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-09-30T09:37:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-09-30T11:58:40.874816+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "5a30ff213bc1b177",
+      "title": "Foster care often fails kids with disabilities. Consider these cases",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+      "published_raw": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:40.497932+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3ed3d3bcc8654521",
+      "title": "The 2026 Student Podcast Challenge Honorable Mentions",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984991/student-podcast-challenge-2026-honorable-mentions",
+      "published_raw": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:40.123743+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "552b20e1ab93b8b3",
+      "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+      "published_raw": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:39.749296+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "51f0d62bb6e9144e",
+      "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+      "published_raw": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:39.300012+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d72fb66f6e8a0a54",
+      "title": "The moment you've been waiting for: America's best student podcasts",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
+      "published_raw": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:38.923532+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9258094791505f5c",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+      "published_raw": "Wed, 30 Sep 2026 05:01:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:38.523616+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "136f7c4b0a429348",
+      "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+      "published_raw": "Wed, 30 Sep 2026 07:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:38.112776+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d25520e03bf6ce11",
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "published_raw": "Wed, 30 Sep 2026 07:13:17 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-09-30T11:58:37.712498+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "413137a00e927286",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:25:12 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-30T11:58:37.300719+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "aa443fdb50c73b43",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Wed, 30 Sep 2026 08:59:38 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-30T11:58:36.882994+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9e4f9f0ea02d7727",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:36:23 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-30T11:58:36.482500+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "20ed6128a592045c",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Wed, 30 Sep 2026 11:47:27 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-09-30T11:58:36.074002+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "8c9db2ba25a934d4",
       "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
@@ -4586,784 +5361,6 @@
         "abbr": "AJ",
         "domain": "aljazeera.com",
         "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "60462451d9f79115",
-      "title": "Fiery end for SpaceX Starship mission",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 23:48:48 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-29T00:04:39.380168+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "363598b82a2c515c",
-      "title": "Anthropic and OpenAI sound the alarm on AI safety &mdash; and seek to shape how it's controlled",
-      "url": "https://www.pbs.org/newshour/world/anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled",
-      "published_raw": "Mon, 28 Sep 2026 18:28:11 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:39.012485+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2cacf467b2aefc60",
-      "title": "Tamara Keith and Amy Walter on taxpayer funds used for TV ads promoting Trump",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-taxpayer-funds-used-for-tv-ads-promoting-trump",
-      "published_raw": "Mon, 28 Sep 2026 18:30:20 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:38.641956+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5b422b4ab051f5df",
-      "title": "How Blanche is shattering DOJ's standard of political independence",
-      "url": "https://www.pbs.org/newshour/show/how-blanche-is-shattering-dojs-standard-of-political-independence",
-      "published_raw": "Mon, 28 Sep 2026 18:35:07 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:38.273133+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d7c8a6bddfaacfb1",
-      "title": "High mortgage rates compound housing affordability challenges",
-      "url": "https://www.pbs.org/newshour/show/high-mortgage-rates-compound-housing-affordability-challenges",
-      "published_raw": "Mon, 28 Sep 2026 18:40:32 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:37.878704+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "41523c906244095c",
-      "title": "What Lindsay Clancy's defense is arguing as she returns to court after a mistrial",
-      "url": "https://www.pbs.org/newshour/nation/what-lindsay-clancys-defense-is-arguing-as-she-returns-to-court-after-a-mistrial",
-      "published_raw": "Mon, 28 Sep 2026 18:40:54 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:37.555847+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "49d36402108081b5",
-      "title": "News Wrap: UK police investigating possible plot targeting U.S. base",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-uk-police-investigating-possible-plot-targeting-u-s-base",
-      "published_raw": "Mon, 28 Sep 2026 18:45:07 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:37.190689+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7a19c2365d01d7a8",
-      "title": "Powerful nor'easter batters parts of East Coast",
-      "url": "https://www.pbs.org/newshour/show/powerful-noreaster-batters-parts-of-east-coast",
-      "published_raw": "Mon, 28 Sep 2026 18:53:29 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:36.789777+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "a96db4fae3e23562",
-      "title": "What Trump's rollback of fuel economy standards means for drivers",
-      "url": "https://www.pbs.org/newshour/show/what-trumps-rollback-of-fuel-economy-standards-means-for-drivers",
-      "published_raw": "Mon, 28 Sep 2026 18:55:54 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-09-29T00:04:36.398835+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2bde356553008f09",
-      "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
-      "published_raw": "Mon, 28 Sep 2026 13:14:25 -0400",
-      "source_id": "npr",
-      "source_name": "NPR",
-      "fetched_at": "2026-09-29T00:04:36.005011+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
-      },
-      "publisher_meta": {
-        "name_fa": "ان‌پی‌آر",
-        "abbr": "NPR",
-        "domain": "npr.org",
-        "color": "#F15B1C"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3ff6da99cc8d402c",
-      "title": "French PM warns against escalation of school protests after 164 arrested",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Mon, 28 Sep 2026 21:46:53 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-09-29T00:04:35.610626+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "bd57ca27ecdc83e1",
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "published_raw": "Wed, 23 Sep 2026 11:08:01 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-09-28T19:47:04.697763+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "76f3207eaace1d9e",
-      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-      "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-      "published_raw": "Mon, 28 Sep 2026 15:54:25 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-09-28T19:47:04.153241+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "94fcf9a886f3037a",
-      "title": "The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting",
-      "url": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
-      "published_raw": "Mon, 28 Sep 2026 15:30:00 +0000",
-      "source_id": "propublica",
-      "source_name": "ProPublica",
-      "fetched_at": "2026-09-28T19:47:03.647320+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
-      },
-      "publisher_meta": {
-        "name_fa": "پروپابلیکا",
-        "abbr": "PP",
-        "domain": "propublica.org",
-        "color": "#DE2020"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "959bb6b783b5c4f5",
-      "title": "‘We’re going to win,’ Netanyahu tells UN summit – and voters back home",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0924/netanyahu-UN-israel-gaza-war-genocide?icid=rss",
-      "published_raw": "Thu, 24 Sep 2026 17:52:30 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-09-28T19:47:03.140474+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "958e478e0e20b791",
-      "title": "Why island nations are the real winners as U.N. wraps up",
-      "url": "https://www.csmonitor.com/World/2026/0928/un-sea-level-rise-tuvalu-fiji-declaration?icid=rss",
-      "published_raw": "Mon, 28 Sep 2026 14:25:26 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-09-28T19:47:02.630132+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "555efdf0db2c94db",
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 17:43:10 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:47:02.102775+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "406b250189ee76a0",
-      "title": "Somali army clashes with local forces for control of Baidoa",
-      "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 17:58:11 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:47:01.575690+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3ef93951e288240f",
-      "title": "Trump made the right decision to reject Iran’s offer",
-      "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 18:16:26 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:47:01.074126+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1d484d50b2025222",
-      "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-      "url": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 18:18:32 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:47:00.573746+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b55160d72696c89c",
-      "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
-      "url": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 18:50:24 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:47:00.068740+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "cc70b318243211ea",
-      "title": "American and six Ukrainians released by India after six months in jail",
-      "url": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 19:02:53 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:46:59.532769+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5a6bd98d11fb5826",
-      "title": "Myanmar army air strike kills dozens in Rakhine state",
-      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 19:31:27 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:46:59.009812+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "543c38efa5253293",
-      "title": "How can the UK’s Labour Party rebuild voter trust?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/28/how-can-the-uks-labour-party-rebuild-voter-trust?traffic_source=rss",
-      "published_raw": "Mon, 28 Sep 2026 19:37:27 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-09-28T19:46:58.475832+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "4a83cb83ef8e13a7",
-      "title": "US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights",
-      "url": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-28T12:53:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-28T19:46:57.974093+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "aa6f9bd6592ecfd0",
-      "title": "Germany news: COVID vaccine maker BioNTech to close 3 sites",
-      "url": "https://www.dw.com/en/germany-news-covid-vaccine-maker-biontech-to-close-3-sites/live-79453904?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-28T14:05:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-28T19:46:57.468103+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b276326454807cd8",
-      "title": "What do Manchester City's charges mean for German football?",
-      "url": "https://www.dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-28T14:18:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-28T19:46:56.969194+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "cee3d8c048572efa",
-      "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
-      "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-28T14:18:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-28T19:46:56.468008+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1f2977b83aa1f423",
-      "title": "Turkey: Comedian convicted for 'insulting' Erdogan in show",
-      "url": "https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-09-28T14:51:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-09-28T19:46:55.963930+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
       },
       "fact_check": {
         "status": "error",
