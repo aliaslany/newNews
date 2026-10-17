@@ -1,6 +1,410 @@
 {
-  "generated_at": "2026-10-17T00:04:31.032501+00:00",
+  "generated_at": "2026-10-17T04:20:00.188865+00:00",
   "items": [
+    {
+      "id": "794c14d1cc6ea9b8",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "published_raw": "Sat, 17 Oct 2026 02:52:59 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-10-17T04:19:59.888650+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "039394cd5ff2e6b7",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "published_raw": "Fri, 09 Oct 2026 16:30:09 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-10-17T04:19:59.417599+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ed6d555bad2bceb9",
+      "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss",
+      "published_raw": "Tue, 13 Oct 2026 18:16:44 EDT",
+      "source_id": "csmonitor",
+      "source_name": "The Christian Science Monitor",
+      "fetched_at": "2026-10-17T04:19:58.950698+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
+      },
+      "publisher_meta": {
+        "name_fa": "کریسچن ساینس مانیتور",
+        "abbr": "CSM",
+        "domain": "csmonitor.com",
+        "color": "#1B4B43"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "12015799feaf06e3",
+      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 00:00:00 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:58.461947+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8763b43cae81ae6b",
+      "title": "Oregon school shooter was former special needs student, police say",
+      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 00:25:22 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:57.983937+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "a515bcd0520a68a5",
+      "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 01:33:37 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:57.489842+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d343b1a5d70a4f66",
+      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 01:37:07 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:57.016668+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "691e99d8c62e850a",
+      "title": "Brazil’s Amazon deforestation hits lowest level on record",
+      "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 02:49:21 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:56.546015+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ea87f7c2f817ebc2",
+      "title": "Cameroonians await government reshuffle after Biya’s return",
+      "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 03:14:28 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:56.074396+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "32aa62e7ca556990",
+      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+      "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+      "published_raw": "Sat, 17 Oct 2026 03:30:36 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-17T04:19:55.576327+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "bf9ec210b517196f",
+      "title": "Trump puts new Russia sanctions on hold",
+      "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-17T02:09:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-17T04:19:55.109857+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "cbb36d625ef0cab6",
+      "title": "Fundraising to protect key natural sites falls short ahead of UN biodiversity summit",
+      "url": "https://www.pbs.org/newshour/world/fundraising-to-protect-key-natural-sites-falls-short-ahead-of-un-biodiversity-summit",
+      "published_raw": "Fri, 16 Oct 2026 19:58:48 -0400",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-10-17T04:19:54.639487+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "b355bc9b6840f789",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 17 Oct 2026 03:11:10 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-17T04:19:54.160761+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "74247025b7952650",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 17 Oct 2026 02:48:36 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-17T04:19:53.679265+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "213d969fdb831c49",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-17T04:19:53.208007+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "aa1ae88bf1634147",
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
@@ -4962,408 +5366,6 @@
         "abbr": "GDN",
         "domain": "theguardian.com",
         "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d10d2cdd1291883e",
-      "title": "Transactional politics once defined Mexican elections. It still creeps into governance.",
-      "url": "https://www.csmonitor.com/World/Americas/2026/1015/midterms-clientelism-transactions-mexico-us-politics?icid=rss",
-      "published_raw": "Thu, 15 Oct 2026 13:41:19 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-10-15T20:20:47.577369+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f68ac7e7e2f4ae29",
-      "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-      "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 17:13:17 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:47.082308+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "42cd53e187dd92fa",
-      "title": "Pope Leo resumes work in hospital while recovering from surgery",
-      "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 17:25:09 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:46.389539+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "6b3604ae7c5a9c5a",
-      "title": "A mother’s touch helps premature babies grow strong in Gaza",
-      "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 17:43:01 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:45.755110+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2c25f3e85f489c9b",
-      "title": "Trump ramps up third-country US deportations despite global rights outcry",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 17:54:26 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:45.275771+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "fb42279d3d624b26",
-      "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 18:17:57 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:44.804047+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f9f69030d6f4f297",
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 18:41:41 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:44.330797+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "56cf02a956ffb7ba",
-      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 18:57:08 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:43.850231+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2023817a64366395",
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "published_raw": "Thu, 15 Oct 2026 19:44:27 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-15T20:20:43.179147+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "6f68f25c8236dab1",
-      "title": "Middle East updates: Houthis target Yemen government palace in Aden",
-      "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-15T17:44:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-15T20:20:42.686301+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ae3233ac023da954",
-      "title": "Self-replicating AI: Is your fridge a cybersecurity risk?",
-      "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-15T18:52:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-15T20:20:42.214696+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5ed25c1ae5e25bbb",
-      "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
-      "url": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-15T18:55:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-15T20:20:41.787456+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3fc253431f9707ae",
-      "title": "Medicare open enrollment starts now. These changes will arrive in 2027",
-      "url": "https://www.pbs.org/newshour/health/medicare-open-enrollment-starts-now-these-changes-will-arrive-in-2027",
-      "published_raw": "Thu, 15 Oct 2026 13:22:38 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-15T20:20:41.092739+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "891191892006466d",
-      "title": "Democrats see voter enthusiasm in fundraising haul from small-dollar donors before the midterms",
-      "url": "https://www.pbs.org/newshour/politics/democrats-see-voter-enthusiasm-in-fundraising-haul-from-small-dollar-donors-before-the-midterms",
-      "published_raw": "Thu, 15 Oct 2026 13:59:10 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-15T20:20:40.608277+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ec77b67a84bc545a",
-      "title": "FBI agents and analysts who were fired for working on Trump classified files probe sue to get their jobs back",
-      "url": "https://www.pbs.org/newshour/politics/fbi-agents-and-analysts-who-were-fired-for-working-on-trump-classified-files-probe-sue-to-get-their-jobs-back",
-      "published_raw": "Thu, 15 Oct 2026 15:26:01 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-15T20:20:40.140862+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
       },
       "fact_check": {
         "status": "error",
