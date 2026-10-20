@@ -1,6 +1,837 @@
 {
-  "generated_at": "2026-10-20T06:54:27.936130+00:00",
+  "generated_at": "2026-10-20T12:26:21.822322+00:00",
   "items": [
+    {
+      "id": "7cfd3ce06a6af008",
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published_raw": "Tue, 20 Oct 2026 09:02:43 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-10-20T12:26:21.522111+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "77fa661903f7c04a",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "published_raw": "Tue, 20 Oct 2026 12:00:36 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-10-20T12:26:21.147820+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ddc8cdc230e72ff1",
+      "title": "Frustrated by Losses in the Courts, Missouri Republicans Want to Change How Top Judges Are Selected",
+      "url": "https://www.propublica.org/article/missouri-plan-judge-selection-republican-attacks",
+      "published_raw": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-10-20T12:26:20.749501+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "04716ad4a6030de3",
+      "title": "Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency.",
+      "url": "https://www.propublica.org/article/greg-abbott-border-security-disaster-proclamation",
+      "published_raw": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-10-20T12:26:20.365448+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "5e2bc0be7bba41e8",
+      "title": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+      "url": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+      "published_raw": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-10-20T12:26:19.985917+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "2561b08d0a12fca8",
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 10:24:28 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:19.622318+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "310790e1ddf3b1a2",
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 10:36:57 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:19.241513+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "b2b6b612cd824536",
+      "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 10:53:01 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:18.878771+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d50dd202fa326b28",
+      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:02:31 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:18.492761+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "6e4979ea0e2f9f79",
+      "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:07:55 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:18.116378+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3be84a3e228a7bdb",
+      "title": "Australian MP Helen Haines remains in critical condition after car attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:29:35 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:17.754470+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8af641e25eb8c77e",
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:37:43 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:17.376482+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d27e030641ff3a64",
+      "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+      "url": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:52:11 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-10-20T12:26:16.999882+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8682b3cc808d7b9f",
+      "title": "Japan probe sets course for Mars moon",
+      "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T07:16:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:16.627144+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "298f1b1d0b31caad",
+      "title": "Germany news: Investment summit draws billions in commitments",
+      "url": "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T08:21:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:16.256189+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "bec3787c2388cd67",
+      "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
+      "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T08:57:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:15.883507+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "0beb6386c13bace4",
+      "title": "Why US investors are snapping up Germany's famed Mittelstand",
+      "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T09:06:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:15.517031+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "84ab0b5b08c02c63",
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T11:30:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:15.128600+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "2370ba9037b107f4",
+      "title": "Germany: Google must have consent to publish property images",
+      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-10-20T11:46:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-10-20T12:26:14.762433+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "0ec22f579650b150",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+      "published_raw": "Tue, 20 Oct 2026 04:50:27 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:14.386366+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "6a9cc372445ebf5c",
+      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+      "published_raw": "Tue, 20 Oct 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:14.020046+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ca03a70820826337",
+      "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+      "published_raw": "Tue, 20 Oct 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:13.650906+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1668b10e9c51800c",
+      "title": "Can the new federal voucher program help public schools? Democrats are torn",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+      "published_raw": "Tue, 20 Oct 2026 05:00:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:13.276628+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d01115a34faebf8e",
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "published_raw": "Tue, 20 Oct 2026 06:30:00 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:12.903532+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "02ab97cec80a5f9f",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "published_raw": "Tue, 20 Oct 2026 07:04:49 -0400",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-10-20T12:26:12.514980+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "15b2d75f0743c9fc",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:09:09 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:12.152040+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "34f1932e9b4d6422",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 08:53:06 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:11.785049+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "4baab9c7635d162f",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 03:10:39 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:11.411052+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "95fa39ee230f3487",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:47:39 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:11.033620+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "0b60d32fc51c8e9c",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 11:25:35 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:10.650959+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8a5e114d5271d86d",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Tue, 20 Oct 2026 12:08:41 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-10-20T12:26:10.264018+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "fde30af566a7ed44",
       "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
@@ -4517,840 +5348,6 @@
       "source_id": "bbc",
       "source_name": "BBC News",
       "fetched_at": "2026-10-19T01:15:38.765906+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7b05f9cb631f377c",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Mon, 19 Oct 2026 00:06:25 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-19T01:15:38.390531+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7a096cacb5b5f36b",
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 23:06:09 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-19T01:15:37.987721+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "000cbf254e72ec50",
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 22:22:51 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-19T01:15:37.581883+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d10d2cdd1291883e",
-      "title": "Transactional politics once defined Mexican elections. It still creeps into governance.",
-      "url": "https://www.csmonitor.com/World/Americas/2026/1015/midterms-clientelism-transactions-mexico-us-politics?icid=rss",
-      "published_raw": "Thu, 15 Oct 2026 13:41:19 EDT",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-10-18T23:12:18.078380+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "651b12798de3e2de",
-      "title": "Macron condemns violence after riots lead to looting and mass arrests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 21:10:47 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T23:12:17.712496+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "0c1b1a1a5e62bb1d",
-      "title": "Alberta independence referendum: Will separatists survive a loss?",
-      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 21:53:13 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T23:12:17.351080+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ec73e16a6f00db3f",
-      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-      "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 22:41:49 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T23:12:16.951970+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "06e94adb9a9d7ac1",
-      "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-      "url": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-18T22:04:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-18T23:12:16.583366+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9b894cc1953ece94",
-      "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
-      "url": "https://www.pbs.org/newshour/world/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
-      "published_raw": "Sun, 18 Oct 2026 15:00:06 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T23:12:16.183420+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "882e14bf4f1906ff",
-      "title": "Criminal networks threaten the Amazon. Indigenous leaders want the UN to act",
-      "url": "https://www.pbs.org/newshour/world/criminal-networks-threaten-the-amazon-indigenous-leaders-want-the-un-to-act",
-      "published_raw": "Sun, 18 Oct 2026 17:40:14 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T23:12:15.806972+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5094acff6f928ad1",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 22:10:45 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T23:12:15.403229+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "794c14d1cc6ea9b8",
-      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-      "published_raw": "Sat, 17 Oct 2026 02:52:59 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-10-18T21:13:26.672092+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b1c4803656bc9828",
-      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 18:44:30 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:26.187223+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "881784517212147b",
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:11:27 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:25.701432+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5c9fa1aab61a8c3b",
-      "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:12:30 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:25.197702+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d733d1352a8a2f61",
-      "title": "How will Europe deal with youth-led protests?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:15:21 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:24.710103+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8240343da8dabd3f",
-      "title": "India’s crackdown on cockroaches, critics and cameras",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:31:45 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:24.218883+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5da1ae6ab9cca807",
-      "title": "What’s behind Europe’s youth protests?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 20:05:07 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:23.724842+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "6504ab668c9c4202",
-      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 20:19:22 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:23.244188+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "bca7b2c06afff44b",
-      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-      "published_raw": "Sun, 18 Oct 2026 20:26:03 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-10-18T21:13:22.760676+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3570547bbfebd064",
-      "title": "Israel: Trump endorses Netanyahu ahead of elections",
-      "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-18T19:06:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-18T21:13:22.389351+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "feb618de7605bfe3",
-      "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-      "url": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-10-18T19:47:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-10-18T21:13:21.905204+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9e2daa17af01e94d",
-      "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
-      "url": "https://www.pbs.org/newshour/world/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
-      "published_raw": "Sun, 18 Oct 2026 15:00:06 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T21:13:21.420929+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ac3c2a781e4b9028",
-      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "url": "https://www.pbs.org/newshour/world/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
-      "published_raw": "Sun, 18 Oct 2026 15:22:43 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T21:13:20.907899+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "409ad7561d9515c1",
-      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
-      "url": "https://www.pbs.org/newshour/politics/rubio-heads-to-central-asia-as-some-wonder-if-hes-keeping-the-most-pressing-matters-at-a-distance",
-      "published_raw": "Sun, 18 Oct 2026 15:49:23 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T21:13:20.420126+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c1fcc10eb02adcef",
-      "title": "Latino voters helped put Trump back in the White House. What's their next move?",
-      "url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
-      "published_raw": "Sun, 18 Oct 2026 16:46:52 -0400",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-10-18T21:13:19.935239+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "74d3b9329303236c",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 01:10:25 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T21:13:19.430067+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "b3ed2fd7a7081420",
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:53:27 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T21:13:18.916519+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "ecc0ad07828ed059",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 21:00:22 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T21:13:18.508893+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f943761d0122d92b",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 19:42:37 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T21:13:17.997819+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2068d6ee31ac0a2d",
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Sun, 18 Oct 2026 20:33:21 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-10-18T21:13:17.496533+00:00",
       "reliability": {
         "rating": "Very High",
         "trackers": [
