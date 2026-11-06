@@ -1,6 +1,1186 @@
 {
-  "generated_at": "2026-11-06T10:29:28.570293+00:00",
+  "generated_at": "2026-11-06T17:38:51.210000+00:00",
   "items": [
+    {
+      "id": "bf678edf75f7d987",
+      "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+      "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+      "published_raw": "Fri, 06 Nov 2026 13:03:38 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-11-06T17:38:50.909688+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "3b3edf705abc3698",
+      "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+      "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+      "published_raw": "Fri, 06 Nov 2026 12:48:37 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-11-06T17:38:50.414840+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8dfab073862a8f75",
+      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+      "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+      "published_raw": "Fri, 06 Nov 2026 15:08:43 GMT",
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "fetched_at": "2026-11-06T17:38:49.908988+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
+      },
+      "publisher_meta": {
+        "name_fa": "گاردین",
+        "abbr": "GDN",
+        "domain": "theguardian.com",
+        "color": "#052962"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "4ff6d2c276d0531a",
+      "title": "Do You Live Near Lake Champlain? Help Seven Days and ProPublica Investigate Algae Blooms.",
+      "url": "https://www.propublica.org/getinvolved/lake-champlain-vermont-algae-bloom-pollution-callout",
+      "published_raw": "Wed, 04 Nov 2026 14:55:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-11-06T17:38:49.360620+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ab3558e8f72dc9fe",
+      "title": "Vermont Has Spent Nearly a Billion Dollars to Clean Up Lake Champlain. But the Green Slime Keeps Coming Back.",
+      "url": "https://www.propublica.org/article/lake-champlain-algae-bloom-cyanobacteria-water-pollution-vermont",
+      "published_raw": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-11-06T17:38:48.873942+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "0e84b531ade3567b",
+      "title": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
+      "url": "https://www.propublica.org/article/vermont-clean-water-act-champlain-audit",
+      "published_raw": "Wed, 04 Nov 2026 15:05:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-11-06T17:38:48.350871+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8472a58dce1a827e",
+      "title": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
+      "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+      "published_raw": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "source_id": "propublica",
+      "source_name": "ProPublica",
+      "fetched_at": "2026-11-06T17:38:47.679118+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Investigative, evidence-heavy reporting; multiple Pulitzer Prizes for accuracy-critical work."
+      },
+      "publisher_meta": {
+        "name_fa": "پروپابلیکا",
+        "abbr": "PP",
+        "domain": "propublica.org",
+        "color": "#DE2020"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "7effcdd21a7f1bc1",
+      "title": "As French students protest, they bear the mantle of May ‘68",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1106/france-student-protests-economic-may-1968-de-gaulle-macron?icid=rss",
+      "published_raw": "Fri, 06 Nov 2026 12:00:12 EST",
+      "source_id": "csmonitor",
+      "source_name": "The Christian Science Monitor",
+      "fetched_at": "2026-11-06T17:38:47.322307+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
+      },
+      "publisher_meta": {
+        "name_fa": "کریسچن ساینس مانیتور",
+        "abbr": "CSM",
+        "domain": "csmonitor.com",
+        "color": "#1B4B43"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "6654de906fcde45c",
+      "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 15:48:10 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:46.848990+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "f7503dc9af58cd17",
+      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:04:19 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:46.372982+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "bc953bd495bc931d",
+      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+      "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:10:51 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:45.899447+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "dfac71f85f254b59",
+      "title": "What did the Republicans lose in the US midterms?",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:11:34 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:45.427391+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "c5568eaaaca2049c",
+      "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:21:57 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:44.930997+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "723e324c91e548f6",
+      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:40:39 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:44.444032+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9c5f80943f7f5da6",
+      "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+      "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:58:56 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:43.964072+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "575d0d8231589ca1",
+      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+      "published_raw": "Fri, 06 Nov 2026 17:02:19 +0000",
+      "source_id": "aljazeera",
+      "source_name": "Al Jazeera English",
+      "fetched_at": "2026-11-06T17:38:43.479300+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
+      },
+      "publisher_meta": {
+        "name_fa": "الجزیره (انگلیسی)",
+        "abbr": "AJ",
+        "domain": "aljazeera.com",
+        "color": "#FA9E1B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "b846eee162e6096f",
+      "title": "Zambia's civil service overhaul raises questions",
+      "url": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T13:28:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:43.009634+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "ca5c679128f4383c",
+      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T14:00:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:42.510681+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "13e6e14ee9309298",
+      "title": "Protests and reforms: France's rising debt costs threaten stability",
+      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T14:37:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:42.011694+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "7b9ab57d714f824a",
+      "title": "Fact check: Three viral Iran war posts debunked",
+      "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T15:29:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:41.520947+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "0ba8f4f04ece96be",
+      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
+      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T16:01:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:41.038006+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "4ef3b13b97ccf278",
+      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
+      "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T16:28:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:40.564830+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "303a2d5797de0033",
+      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T16:38:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:40.171728+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "eae13ec76febcabb",
+      "title": "Tesla to 'wind down' production of flop Cybertruck",
+      "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-top-1022-rdf",
+      "published_raw": "2026-11-06T17:10:00Z",
+      "source_id": "dw",
+      "source_name": "Deutsche Welle (DW)",
+      "fetched_at": "2026-11-06T17:38:39.694616+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Media Bias/Fact Check"
+        ],
+        "note": "Useful for a non-US/UK vantage point on the same stories."
+      },
+      "publisher_meta": {
+        "name_fa": "دویچه‌وله",
+        "abbr": "DW",
+        "domain": "dw.com",
+        "color": "#1B3A6B"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "82c49e970661e48c",
+      "title": "Jay Rockefeller, former West Virginia governor and U.S. senator, dies at 89",
+      "url": "https://www.pbs.org/newshour/politics/jay-rockefeller-former-west-virginia-governor-and-u-s-senator-dies-at-89",
+      "published_raw": "Fri, 06 Nov 2026 10:37:10 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:39.224370+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "29e0bf34940add06",
+      "title": "AP report: Thomas Markle Sr. arrested on charges related to child sexual abuse material",
+      "url": "https://www.pbs.org/newshour/nation/ap-report-thomas-markle-sr-arrested-on-charges-related-to-child-sexual-abuse-material",
+      "published_raw": "Fri, 06 Nov 2026 10:57:31 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:38.722906+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "95d34fd5c0240b6f",
+      "title": "U.S. continues to generate jobs, yet inflation is eroding Americans' spending power",
+      "url": "https://www.pbs.org/newshour/economy/u-s-continues-to-generate-jobs-yet-inflation-is-eroding-americans-spending-power",
+      "published_raw": "Fri, 06 Nov 2026 11:23:26 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:38.256750+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "f17f9798cbb95dcc",
+      "title": "Trump's Washington projects are a likely casualty as Democrats claim Congress",
+      "url": "https://www.pbs.org/newshour/politics/trumps-washington-projects-are-a-likely-casualty-as-democrats-claim-congress",
+      "published_raw": "Fri, 06 Nov 2026 11:45:19 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:37.765738+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "28b8aa9d4150b710",
+      "title": "What to know about Pope Leo XIV's trip to Uruguay, Argentina and Peru",
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-pope-leo-xivs-trip-to-uruguay-argentina-and-peru",
+      "published_raw": "Fri, 06 Nov 2026 12:13:44 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:37.297788+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "73598f362a7e6b54",
+      "title": "Democratic socialist Nithya Raman defeats Los Angeles Mayor Karen Bass in upset",
+      "url": "https://www.pbs.org/newshour/politics/democratic-socialist-nithya-raman-defeats-los-angeles-mayor-karen-bass-in-upset",
+      "published_raw": "Fri, 06 Nov 2026 12:19:57 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:36.810456+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "844843daa24da801",
+      "title": "Harmeet Dhillon resigns after radical reshape of Justice Department's Civil Rights Division",
+      "url": "https://www.pbs.org/newshour/politics/harmeet-dhillon-resigns-after-radical-reshape-of-justice-departments-civil-rights-division",
+      "published_raw": "Fri, 06 Nov 2026 12:32:47 -0500",
+      "source_id": "pbs-newshour",
+      "source_name": "PBS NewsHour",
+      "fetched_at": "2026-11-06T17:38:36.335396+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
+      },
+      "publisher_meta": {
+        "name_fa": "پی‌بی‌اس نیوزآور",
+        "abbr": "PBS",
+        "domain": "pbs.org",
+        "color": "#0A3161"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "effb4a629a221bbe",
+      "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+      "published_raw": "Fri, 06 Nov 2026 06:57:32 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:35.866908+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "e708271d596a617f",
+      "title": "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen",
+      "published_raw": "Fri, 06 Nov 2026 06:58:56 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:35.377304+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "71251e53819f1322",
+      "title": "Why gold prices are surprisingly low",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+      "published_raw": "Fri, 06 Nov 2026 07:00:00 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:34.879843+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "d5a4d79692d37b34",
+      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+      "published_raw": "Fri, 06 Nov 2026 07:24:52 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:34.372488+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "aa01c067bbbe89dd",
+      "title": "Hiring jumps: The economy added 165,000 jobs last month",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+      "published_raw": "Fri, 06 Nov 2026 08:49:21 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:33.987955+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "c911d7092a296efa",
+      "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+      "published_raw": "Fri, 06 Nov 2026 08:56:43 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:33.510662+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "53c8723857d99c05",
+      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+      "published_raw": "Fri, 06 Nov 2026 09:53:46 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:33.126601+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "9bed83af1e2c219c",
+      "title": "European air traffic is targeted by new threats after a week of hoaxes",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+      "published_raw": "Fri, 06 Nov 2026 10:21:31 -0500",
+      "source_id": "npr",
+      "source_name": "NPR",
+      "fetched_at": "2026-11-06T17:38:32.655630+00:00",
+      "reliability": {
+        "rating": "High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Strong factual track record; MBFC notes a slight left-leaning story-selection bias on some coverage."
+      },
+      "publisher_meta": {
+        "name_fa": "ان‌پی‌آر",
+        "abbr": "NPR",
+        "domain": "npr.org",
+        "color": "#F15B1C"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "cfed11da37f91af7",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Fri, 06 Nov 2026 12:51:38 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-11-06T17:38:32.157748+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "823ca8787ea01e5e",
+      "title": "New wave of bomb threats hit European airlines",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-11-06T17:38:31.682612+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "abf8f7602cc843ad",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-11-06T17:38:31.201806+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "8c9e0687e836e79f",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Fri, 06 Nov 2026 16:51:01 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-11-06T17:38:30.733385+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
+    {
+      "id": "1ff3378ae6d90c1d",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published_raw": "Fri, 06 Nov 2026 17:03:02 GMT",
+      "source_id": "bbc",
+      "source_name": "BBC News",
+      "fetched_at": "2026-11-06T17:38:30.249474+00:00",
+      "reliability": {
+        "rating": "Very High",
+        "trackers": [
+          "Ad Fontes Media",
+          "Media Bias/Fact Check"
+        ],
+        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
+      },
+      "publisher_meta": {
+        "name_fa": "بی‌بی‌سی نیوز",
+        "abbr": "BBC",
+        "domain": "bbc.com",
+        "color": "#BB1919"
+      },
+      "fact_check": {
+        "status": "error",
+        "matches": []
+      }
+    },
     {
       "id": "ba2ec5f57f96ea76",
       "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
@@ -4175,1185 +5355,6 @@
         "abbr": "BBC",
         "domain": "bbc.com",
         "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "bdb4a1392e034358",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "published_raw": "Thu, 05 Nov 2026 03:47:56 GMT",
-      "source_id": "bbc",
-      "source_name": "BBC News",
-      "fetched_at": "2026-11-05T09:41:33.889863+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Long-running wire-style reporting with minimal detectable lean on straight news."
-      },
-      "publisher_meta": {
-        "name_fa": "بی‌بی‌سی نیوز",
-        "abbr": "BBC",
-        "domain": "bbc.com",
-        "color": "#BB1919"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f58ee326d1235c16",
-      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-      "published_raw": "Wed, 28 Oct 2026 14:16:24 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-11-05T02:25:49.395918+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "a6bb57feece06ce5",
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-      "published_raw": "Fri, 30 Oct 2026 05:00:45 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-11-05T02:25:48.875630+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "a667d80e07b4a20a",
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "published_raw": "Fri, 30 Oct 2026 05:00:45 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-11-05T02:25:48.369721+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "3b31ec46cd6882a3",
-      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 00:00:00 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:47.864139+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8d1114590ad31065",
-      "title": "Historic firsts redraw US political map in 2026 midterm elections",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 00:24:20 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:47.358791+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "fa819ec51dfb5a0e",
-      "title": "Democrats won Congress. But can they deliver on their promises?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 00:25:43 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:46.835652+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f05bd6bed8f601a2",
-      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 00:36:25 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:46.330775+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f2d0b382d7137fd1",
-      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 00:39:18 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:45.821118+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c85a8163008818b7",
-      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 01:53:30 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:45.315690+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "cd3534198617ba4b",
-      "title": "Election deniers lose races for governor in key US swing states",
-      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 02:06:07 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:44.813595+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "dbf48f4a6a54eba1",
-      "title": "El Salvador’s Bukele touts military intervention in Haiti",
-      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-      "published_raw": "Thu, 05 Nov 2026 02:10:07 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-05T02:25:44.310038+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "faa6b495d0ae082a",
-      "title": "Democrats take House and Senate from Republicans in US midterm rout",
-      "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T23:04:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-05T02:25:43.784565+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "2cf808cfc4e1def4",
-      "title": "OKC's Republican mayor says election wipeout is 'rejection of Trumpism'",
-      "url": "https://www.pbs.org/newshour/show/okcs-republican-mayor-says-election-wipeout-is-rejection-of-trumpism",
-      "published_raw": "Wed, 04 Nov 2026 18:25:13 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:43.260369+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "0114d708e9b321d0",
-      "title": "New Mexico's Deb Haaland on making history as first Native American woman elected governor",
-      "url": "https://www.pbs.org/newshour/show/new-mexicos-deb-haaland-on-making-history-as-first-native-american-woman-elected-governor",
-      "published_raw": "Wed, 04 Nov 2026 18:30:16 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:42.837575+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c5ddd30d7af00948",
-      "title": "'A mandate for change': Progressive Democrat William Lawrence flips House seat in Michigan",
-      "url": "https://www.pbs.org/newshour/show/a-mandate-for-change-progressive-democrat-william-lawrence-flips-house-seat-in-michigan",
-      "published_raw": "Wed, 04 Nov 2026 18:35:28 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:42.304166+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "4dba440bb18ce07e",
-      "title": "A NASA space telescope plunged back to Earth after a mission that lasted 11 times longer than planned",
-      "url": "https://www.pbs.org/newshour/science/a-nasa-space-telescope-plunged-back-to-earth-after-a-mission-that-lasted-11-times-longer-than-planned",
-      "published_raw": "Wed, 04 Nov 2026 18:39:24 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:41.780366+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d2d5349f77d6d975",
-      "title": "The issues that drove voters' decisions in the midterms",
-      "url": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
-      "published_raw": "Wed, 04 Nov 2026 18:40:31 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:41.271717+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9ba9c0201a3a1e7f",
-      "title": "Breaking down the Democrats' big majorities after the blue wave",
-      "url": "https://www.pbs.org/newshour/show/breaking-down-the-democrats-big-majorities-after-the-blue-wave",
-      "published_raw": "Wed, 04 Nov 2026 18:45:30 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:40.759722+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f9849ec03d1a2c7e",
-      "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
-      "published_raw": "Wed, 04 Nov 2026 18:50:44 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:40.241370+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8851fb7d24db2dfd",
-      "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
-      "url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
-      "published_raw": "Wed, 04 Nov 2026 18:55:07 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-05T02:25:39.736574+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "1f63702eed6e9dfd",
-      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-      "published_raw": "Wed, 04 Nov 2026 19:42:47 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-11-04T22:12:10.370479+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "d8e59f428af50c90",
-      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "published_raw": "Wed, 04 Nov 2026 18:18:37 GMT",
-      "source_id": "guardian",
-      "source_name": "The Guardian",
-      "fetched_at": "2026-11-04T22:12:09.998869+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Strong factual reporting on news pages; MBFC notes a left-of-center lean in framing/opinion content."
-      },
-      "publisher_meta": {
-        "name_fa": "گاردین",
-        "abbr": "GDN",
-        "domain": "theguardian.com",
-        "color": "#052962"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "f9c0a5bca84aa702",
-      "title": "As EV race heats up, Germany finds itself falling behind pack leaders",
-      "url": "https://www.csmonitor.com/World/Europe/2026/1102/germany-cars-automakers-volkswagen-ev-china-strikes?icid=rss",
-      "published_raw": "Mon, 02 Nov 2026 16:35:24 EST",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-11-04T22:12:09.629139+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "4c36ef5238173773",
-      "title": "This polarizing, pothole-snorkeling gran is leading the race for Johannesburg mayor",
-      "url": "https://www.csmonitor.com/World/Africa/2026/1104/Johannesburg-anc-zille-south-africa?icid=rss",
-      "published_raw": "Wed, 04 Nov 2026 12:58:26 EST",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-11-04T22:12:09.242831+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5617468d94cd936a",
-      "title": "How the Democrats’ surge impacts the US-Israel relationship",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1104/israel-us-relationship-democrats-midterms?icid=rss",
-      "published_raw": "Wed, 04 Nov 2026 15:21:09 EST",
-      "source_id": "csmonitor",
-      "source_name": "The Christian Science Monitor",
-      "fetched_at": "2026-11-04T22:12:08.878673+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Rated 'least biased' by MBFC; known for calm, low-sensationalism reporting."
-      },
-      "publisher_meta": {
-        "name_fa": "کریسچن ساینس مانیتور",
-        "abbr": "CSM",
-        "domain": "csmonitor.com",
-        "color": "#1B4B43"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "9d0c23488ef2a475",
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 19:59:14 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:08.513212+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "42cbd072e3eddc7d",
-      "title": "Will the US resume its attacks on Iran?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 20:25:50 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:08.143975+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "a34ff63dcef5d046",
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 20:31:56 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:07.776829+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "648a58a296e65ad2",
-      "title": "Democrat leaders hail midterm election success",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 20:50:31 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:07.435016+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "470a16c43bbd327b",
-      "title": "US midterm election results live: Trump blames Iran war after losses",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 21:00:00 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:07.069249+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "48365c178d61a8c0",
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-      "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 21:13:56 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:06.693777+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "7d9abfcf1c80ba58",
-      "title": "Social media reacts to Democrats’ takeover of US Congress",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 21:21:58 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:06.275406+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "19d184ae5f397fc6",
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-      "published_raw": "Wed, 04 Nov 2026 22:06:24 +0000",
-      "source_id": "aljazeera",
-      "source_name": "Al Jazeera English",
-      "fetched_at": "2026-11-04T22:12:05.905046+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Valuable for Middle East and Global South coverage often under-reported elsewhere."
-      },
-      "publisher_meta": {
-        "name_fa": "الجزیره (انگلیسی)",
-        "abbr": "AJ",
-        "domain": "aljazeera.com",
-        "color": "#FA9E1B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "e5ebcf5f8f1c794c",
-      "title": "Gold for Palestine: Meet junior karate champ Mariam Bsharat",
-      "url": "https://www.dw.com/en/gold-for-palestine-meet-junior-karate-champ-mariam-bsharat/a-79851806?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T15:40:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:05.539249+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "fde318cbfddd2c8a",
-      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
-      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T16:17:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:05.173796+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "49b6d176184a818c",
-      "title": "The 2011 discovery of neo-Nazi killers aired biases in German policing",
-      "url": "https://www.dw.com/en/the-2011-discovery-of-neo-nazi-killers-aired-biases-in-german-policing/a-79857781?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T17:16:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:04.799064+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "8b6ebad22b05f9b7",
-      "title": "French blood banks targeted by refrigerator cyberattack",
-      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T17:57:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:04.430124+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "68def20d3cdad56f",
-      "title": "Fact check: Examining viral narratives after the US midterm elections",
-      "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T18:45:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:04.054060+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "73392187734459dd",
-      "title": "36 years later: Hungary opens Communist-era secret service files",
-      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T19:30:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:03.677905+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "4a0ba20dba646ab3",
-      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
-      "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T20:27:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:03.311922+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "5061192dd57f0b8f",
-      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-top-1022-rdf",
-      "published_raw": "2026-11-04T21:00:00Z",
-      "source_id": "dw",
-      "source_name": "Deutsche Welle (DW)",
-      "fetched_at": "2026-11-04T22:12:02.943255+00:00",
-      "reliability": {
-        "rating": "High",
-        "trackers": [
-          "Media Bias/Fact Check"
-        ],
-        "note": "Useful for a non-US/UK vantage point on the same stories."
-      },
-      "publisher_meta": {
-        "name_fa": "دویچه‌وله",
-        "abbr": "DW",
-        "domain": "dw.com",
-        "color": "#1B3A6B"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "07416fa99f45c329",
-      "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
-      "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
-      "published_raw": "Wed, 04 Nov 2026 12:36:11 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-04T22:12:02.609188+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
-      },
-      "fact_check": {
-        "status": "error",
-        "matches": []
-      }
-    },
-    {
-      "id": "c576bd2cc9ced6a2",
-      "title": "Democrats usher in a new era with their resounding sweep of the House and the Senate",
-      "url": "https://www.pbs.org/newshour/politics/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate",
-      "published_raw": "Wed, 04 Nov 2026 12:57:49 -0500",
-      "source_id": "pbs-newshour",
-      "source_name": "PBS NewsHour",
-      "fetched_at": "2026-11-04T22:12:02.237657+00:00",
-      "reliability": {
-        "rating": "Very High",
-        "trackers": [
-          "Ad Fontes Media",
-          "Media Bias/Fact Check"
-        ],
-        "note": "Consistently rated near the top for factual reporting with minimal detectable lean."
-      },
-      "publisher_meta": {
-        "name_fa": "پی‌بی‌اس نیوزآور",
-        "abbr": "PBS",
-        "domain": "pbs.org",
-        "color": "#0A3161"
       },
       "fact_check": {
         "status": "error",
